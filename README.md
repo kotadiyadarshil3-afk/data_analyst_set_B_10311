@@ -422,7 +422,7 @@ Dashboard with:
 
 ## 🎥 Working Video
 
-📹 **Project walkthrough:** [Click here to watch the working video](PASTE_YOUR_VIDEO_LINK_HERE)
+📹 **Project walkthrough:** [Click here to watch the working video](https://drive.google.com/file/d/1UNmCOj2e3piMf_LHcWikd7E5XbDLwWbI/view?usp=sharing)
 
 <!-- If the video file is in the repo, you can use: -->
 <!-- https://github.com/<username>/<repo>/assets/<video-id> -->
